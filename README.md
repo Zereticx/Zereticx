@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohamed Hafeez
+- 👀 I’m interested in Artifical Intelligence
+- I'm currently pursuing Degree in AI and Data Science
