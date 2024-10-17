@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Mohamed Hafeez
-- 👀 I’m interested in Artifical Intelligence
 - Completed BE in AI and Data Science
